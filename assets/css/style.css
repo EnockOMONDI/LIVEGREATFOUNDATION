@@ -337,7 +337,7 @@ nav ul ul li {
     position: relative;
 }
 nav ul ul li:hover a{
-    color: black;
+    color: #040420;
 }
 nav ul ul li:not(:last-child) {
     border-bottom: 1px solid #00000024;
@@ -377,7 +377,7 @@ nav li > a:only-child:after { content: ''; }
 }
 .logo-menu .extras a.pr-cart svg {
     width: 25px;
-    fill: black;
+    fill: #040420;
 }
 .nav-bar {
     display: flex;
@@ -567,7 +567,7 @@ ul.social-media-icon li:nth-child(3) a:before {
 .volunteer h3 {
     font-size: 35px;
     font-weight: bold;
-    color: black;
+    color: #040420;
     padding-top: 30px;
     margin: 0;
 }
@@ -576,7 +576,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     border-radius: 40px;
 }
 .volunteer p {
-    color: black;
+    color: #040420;
     font-weight: 500;
     padding-bottom: 30px;
     padding-top: 16px;
@@ -587,11 +587,11 @@ ul.social-media-icon li:nth-child(3) a:before {
     justify-content: center;
     width: 130px;
     height: 130px;
-    background-color: black;
+    background-color: #040420;
     border-radius: 50%;
 }
 .volunteer a {
-    color: black;
+    color: #040420;
     font-weight: 700;
     text-transform: uppercase;
     border-bottom: 1px solid;
@@ -604,7 +604,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     color: white;
 }
 .volunteer.donation svg {
-    fill: black;
+    fill: #040420;
 }
 .volunteer.donation i {
     background-color: white;
@@ -619,7 +619,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     font-size: 16px;
     margin: 0;
     line-height: 26px;
-    color: black;
+    color: #040420;
 }
 .section-recent-causes{
     background-color: #f1f1f1;
@@ -795,7 +795,7 @@ ul.social-media-icon li:nth-child(3) a:before {
 .donation-section:before,.environment-section:before{
     position: absolute;
     content: "";
-    background-color: black;
+    background-color: #040420;
     opacity: .5;
     width: 100%;
     height: 100%;
@@ -1182,7 +1182,7 @@ ul.heart li{
 }
 .add-to-cart:hover a i{
     color: white;
-    background-color: black;
+    background-color: #040420;
 }
 /* 12. article */
 .article img {
@@ -1452,7 +1452,7 @@ ul.social-media i {
     border: 1px solid #c70f55;
 }
 .btn.two span{
-    color: black;
+    color: #040420;
 }
 .btn.two:hover span{
     color: white;
@@ -1672,7 +1672,7 @@ ul.social-media i {
     content: "";
     width: 12px;
     height: 2px;
-    background: black;
+    background: #040420;
     position: absolute;
     border-radius: 3px;
     left: 50%;
@@ -1784,7 +1784,7 @@ ul.social-media i {
     color: white;
 }
 .recent-causes-urgent p{
-    color: #c1c1c1;
+    color: #ffffff;
 }
 .urgent-causes-two img {
     border-radius: 35px;
@@ -1821,7 +1821,7 @@ ul.social-media i {
     border: 1px solid #c1c1c1;
 }
 .urgent-causes-two .recent-causes-urgent .btn span{
-    color: black;
+    color: #040420;
 }
 .urgent-causes-two .recent-causes-urgent .btn:hover span{
     color: white;
@@ -1910,7 +1910,7 @@ ul.social-media i {
     justify-content: center;
 }
 .child-sponsor-slide .owl-nav i:hover{
-    background-color: black;
+    background-color: #040420;
 }
 .child-sponsor-slide.owl-theme .owl-nav [class*=owl-]:hover{
     background-color: transparent;
@@ -2022,7 +2022,7 @@ ul.social-media i {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #256d03;
+    background-color: #256d03da;
     opacity: .8;
 }
 .support h2{
@@ -2043,6 +2043,7 @@ ul.social-media i {
     position: relative;
     color: white;
 }
+
 .support.two:before {
     background-color: #c70f55;
 }
@@ -2050,10 +2051,10 @@ ul.social-media i {
     background-color: white;
 }
 .support button.btn span{
-    color: black;
+    color: #040420;
 }
 .support button.btn span{
-    color: black;
+    color: #040420;
 }
 .support button.btn:after{
     background-color: #bfbfbf;
@@ -2166,7 +2167,7 @@ ul.want-to-Join-data li i {
     background-image: linear-gradient(30deg, #f2b806,#f22906, #ed0e0e ,#c71659, #904cc4);
 }
 .share-story.twitter{
-    background-color: #1d9bf0;
+    background-color: #040420;
 }
 /* 26 footer two */
 footer.footer-two:before{
@@ -2176,7 +2177,7 @@ footer.footer-two {
     margin-top: -120px;
 }
 footer.footer-two .widget-title h3{
-    color: black;
+    color: #040420;
 }
 footer.footer-two .widget-title p,footer.footer-two .Information ul li a,
 footer.footer-two .Information ul li,footer.footer-two .contact-info h5,
@@ -2193,7 +2194,7 @@ footer.footer-two .footer-bootom-bar{
     background-color: white;
 }
 footer.footer-two .wpo-lower-footer p,footer.footer-two .footer-bootom-bar a{
-    color: black;
+    color: #040420;
 }
 footer.footer-two .footer-bootom-bar {
     background-color: white;
@@ -2384,7 +2385,7 @@ footer.footer-two .wpo-lower-footer .boder {
     }
     .circle span {
         display: block;
-        color: black;
+        color: #040420;
         margin-top: 12px;
     }
     .circle:before {
@@ -2518,7 +2519,7 @@ footer.footer-two .wpo-lower-footer .boder {
     position: relative;
 }
 .fundraising:before{
-    background-color: black;
+    background-color: #040420;
     opacity: .5;
     height: 100%;
     width: 100%;
@@ -2689,7 +2690,7 @@ form.community-form i:before {
 }
 .news-article-two a h3 {
     font-weight: bold;
-    color: black;
+    color: #040420;
     padding-bottom: 10px;
     width: 86%;
 }
@@ -2766,7 +2767,7 @@ ul.image-gallery li {
     justify-content: center;
 }
 .footer-bootom-bar.fore .wpo-lower-footer P{
-    color: black;
+    color: #040420;
 }
 .footer-bootom-bar.fore .wpo-lower-footer a{
     font-weight: bold;
@@ -3106,7 +3107,7 @@ ul.image-gallery li {
     overflow: hidden;
 }
 .see-impact p{
-    color: black;
+    color: #040420;
     font-weight: bold;
     padding-bottom: 20px;
 }
@@ -3207,7 +3208,7 @@ ul.social-media-icon.full li a {
     font-size: 20px;
 }
 ul.social-media-icon.full li a i{
-   color: black;
+   color: #040420;
 }
 /* 49. footer for */
 .footer-for .shaps-bottom {
@@ -3326,7 +3327,7 @@ form.footer-from {
     content: "";
     width: 100%;
     top: 0;
-    background-color: black;
+    background-color: #040420;
     opacity: .5;
     height: 100%;
 }
@@ -3485,7 +3486,7 @@ ul.heart li {
     font-weight: 600;
 }
 .team-data-page .contact-info svg {
-    fill: black;
+    fill: #040420;
     background-color: #e4e4e4;
 }
 .team-data-page .contact-info h5,.team-data-page .contact-info a {
@@ -3738,7 +3739,7 @@ span.current {
 .donate-page button.give-btn.give-btn-level-custom {
     padding: 20px;
     background-color: white;
-    color: black;
+    color: #040420;
     border: 1px solid #eaeaea;
     border-radius: 51px;
     padding-left: 30px;
@@ -4053,7 +4054,7 @@ li.single-comment.children {
 }
 .recent-posts li h6 a{
     background-color: transparent;
-    color: black;
+    color: #040420;
     font-weight: bold;
     display: block;
     font-size: 18px;
@@ -4075,7 +4076,7 @@ ul.categories li a {
     background-color: #fafafa;
     padding: 6px;
     border-radius: 49px;
-    color: black;
+    color: #040420;
     font-size: 16px;
     font-weight: 600;
     padding-left: 30px;
@@ -4472,21 +4473,22 @@ ul.specification li span {
     width: 100%;
     height: 100%;
     opacity: .7;
-    background-color: black;
+    background-color: #040420;
 }
 .error h2{
     font-size: 180px;
-    line-height: 180px;
+    line-height: 290px;
     font-weight: bold;
 }
 .error h3{
     font-size: 40px;
     font-weight: bold;
+    color: #ffffff;
 }
 .error {
     position: relative;
-    background-color: white;
-    border-radius: 400px;
+    background-color: #040420;
+    border-radius: 50px;
     padding: 120px;
     width: 60%;
     margin: auto;
@@ -4608,11 +4610,11 @@ form.checkout-meta input {
     font-size: 14px;
     border: 1px solid #e8e8e8;
     font-weight: 700;
-    color: black;
+    color: #040420;
     outline: none;
 }
 form.checkout-meta input::placeholder{
-    color: black;
+    color: #040420;
 }
 form.checkout-meta.donate-page .nice-select.Advice{
     margin-bottom: 15px;
@@ -4633,7 +4635,7 @@ form.checkout-meta .ship-address input {
     top: 16px;
 }
 .cart_totals.cart-Total {
-    color: black;
+    color: #040420;
     background-color: white;
     border: 1px solid #c1c1c1;
 }
@@ -4649,12 +4651,12 @@ form.checkout-meta .ship-address input {
     border-radius: 40px;
     height: 300px;
     padding: 25px;
-    color: black;
+    color: #040420;
     border: 1px solid #e8e8e8;
     outline: none;
 }
 .woocommerce-additional-fields textarea.input-text::placeholder{
-    color: black;
+    color: #040420;
     font-weight: bold;
 }
 /* 81. checkout-side */
@@ -4700,7 +4702,7 @@ form.checkout-meta .checkout-side input[type='radio']:after{
 }
 form.variations_form span {
     padding: 0;
-    color: black;
+    color: #040420;
 }
 form.variations_form ins{
     text-decoration: none;
@@ -4774,7 +4776,7 @@ ul.pd-cat,ul.pd-tag {
     padding-left: 10px;
 }
 ul.product_meta li span,{
-    color: black;
+    color: #040420;
     font-weight: bold;
 }
 ul.product_meta li a{
@@ -5017,7 +5019,7 @@ table.shop_table_responsive th{
 }
 tr.Total {
     background-color: white;
-    color: black;
+    color: #040420;
     font-weight: bold;
     margin-top: 20px;
 }
@@ -5060,7 +5062,7 @@ table.shop_table_responsive tr {
     width: 11px;
 }
 .for #nav-icon4{
-  color: black;   
+  color: #040420;   
 }
 #nav-icon4 span:nth-child(1) {
   top: 0px;
@@ -5291,7 +5293,7 @@ li.menu-item-has-children.active {
     right: 20px;
 }
 .bar-menu i {
-    color: black;
+    color: #040420;
     background-color: transparent;
     font-size: 24px;
 }
@@ -5638,7 +5640,7 @@ header.two .logo:before,header.two nav:before{
     width: 0;
 }
 header.two nav ul ul li a{
-    color: black;
+    color: #040420;
 }
 header.two nav a {
     padding: 10px 18px;
@@ -5716,7 +5718,7 @@ img.light-icon {
     top: 30%;
     border-right: 0;
 }
-img.black-logo{
+img.#040420-logo{
     display: none;
 }
 .our-shop .gifts-img.style-two {
